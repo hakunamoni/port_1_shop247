@@ -1,4 +1,4 @@
-# NetSuite integration with stores
+# [Shop247](https://www.shop247.com/) (2014~2016)
 
 <!-- <img height="50%" src="/img/port_shop247.jpg" /> -->
 
@@ -7,7 +7,7 @@
 ## Requirement
 
 ```bash
-Using SuiteTalk PHP Toolkit, integrated NetSuite with several stores for [Shop247](https://www.shop247.com/)
+Using SuiteTalk PHP Toolkit, integrated NetSuite with several stores
 
 ```
 
@@ -15,12 +15,12 @@ Using SuiteTalk PHP Toolkit, integrated NetSuite with several stores for [Shop24
 
 1. [Amazon](/amazon)
 
-2. [Channel Advisor ](/amazon)
+2. [Channel Advisor](/channeladvisor)
 
-3. [Pixmania](/amazon)
+3. [Pixmania](/pixmania)
 
-4. [Magento](/amazon)
+4. [Magento](/magento)
 
-5. [Temando](/amazon)
+5. [Temando](/temando)
 
-6. [Rakuten](/amazon)
+6. [Rakuten](/rakuten)
