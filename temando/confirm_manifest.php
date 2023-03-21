@@ -5,7 +5,7 @@
 *	File			confirm_manifest.php
 *	Version			1.0
 *	Create Date		2014/11/07
-*	Created By		Somsak Ri (risomsak@gmail.com)
+*	Created By		Hakuna Moni (hakunamoni@gmail.com)
 * -----------------------------------------------------------------
 
 */

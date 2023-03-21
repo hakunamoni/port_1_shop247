@@ -5,7 +5,7 @@
 *	File			az.update.price.us.php
 *	Version			1.0
 *	Update Date		2014/08/10
-*	Created By		Somsak Ri (risomsak@gmail.com)
+*	Created By		Hakuna Moni (hakunamoni@gmail.com)
 * -----------------------------------------------------------------
 */
 require dirname(__FILE__)."/function.php";
