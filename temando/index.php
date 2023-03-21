@@ -2,7 +2,7 @@
 
 //          Date      2014/10/18
 //          FileName  index.php
-//          Developer Somsak Ri
+//          Developer Hakuna Moni
 	
 ?>
 
