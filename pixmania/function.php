@@ -1,7 +1,7 @@
 <?php
 //          Create Date      2014/05/11
 //          FileName		 function.php
-//          Developer		 Somsak Ri
+//          Developer		 Hakuna Moni
 //          E-Mail			 hakunamoni@gmail.com
 
 class pixmaniaConnector {

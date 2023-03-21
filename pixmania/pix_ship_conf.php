@@ -2,7 +2,7 @@
 
 //          Create Date      2014/05/16
 //          FileName		 pix_ship_conf.php
-//          Developer		 Somsak Ri
+//          Developer		 Hakuna Moni
 //          E-Mail			 hakunamoni@gmail.com
 
 require dirname(__FILE__)."/function.php";

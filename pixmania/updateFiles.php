@@ -1,7 +1,7 @@
 <?php
 //          Create Date      2014/05/08
 //          FileName		 updateFiles.php
-//          Developer		 Somsak Ri
+//          Developer		 Hakuna Moni
 //          E-Mail			 hakunamoni@gmail.com
 
 $targetFile		= $_GET['file'];
