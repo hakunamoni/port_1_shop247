@@ -1,4 +1,4 @@
-# [Shop247](https://www.shop247.com/)
+# NetSuite integration with stores
 
 <!-- <img height="50%" src="/img/port_shop247.jpg" /> -->
 
@@ -6,31 +6,21 @@
 
 ## Requirement
 
-Restrict unapproved items for IQ Dental Supply
-
 ```bash
-Customized the following modules
+Using SuiteTalk PHP Toolkit, integrated NetSuite with several stores for [Shop247](https://www.shop247.com/)
 
-- FacetsItemCellView
-- CartQuickAddToCartView
-- ProductDetailsFullView
-- ProductDetailsQuickViewView
 ```
 
-## Running Results
+## Source Scripts
 
-1. Facets Item Cell View
+1. [Amazon](/amazon)
 
-![plp_cell](/images/port_sca_1.png)
+2. [Channel Advisor ](/amazon)
 
-2. Product Details Quick View
+3. [Pixmania](/amazon)
 
-![plp_quick](/images/port_sca_4.png)
+4. [Magento](/amazon)
 
-3. Product Details Full View
+5. [Temando](/amazon)
 
-![pdp_full](/images/port_sca_3.png)
-
-4. Cart Quick AddToCart View
-
-![cart_quickadd](/images/port_sca_2.png)
+6. [Rakuten](/amazon)
