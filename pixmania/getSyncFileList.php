@@ -2,7 +2,7 @@
 //          Create Date      2014/04/27
 //          FileName		 getSyncFileList.php
 //          Developer		 Somsak Ri
-//          E-Mail			 risomsak@gmail.com
+//          E-Mail			 hakunamoni@gmail.com
 
 $filePath		= "sync/";
 

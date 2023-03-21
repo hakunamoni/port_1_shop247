@@ -2,7 +2,7 @@
 //          Create Date      2014/05/08
 //          FileName		 updateFiles.php
 //          Developer		 Somsak Ri
-//          E-Mail			 risomsak@gmail.com
+//          E-Mail			 hakunamoni@gmail.com
 
 $targetFile		= $_GET['file'];
 $order_array	= json_decode($_GET['arr']);

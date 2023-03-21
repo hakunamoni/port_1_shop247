@@ -2,7 +2,7 @@
 //          Create Date      2014/05/11
 //          FileName		 integration_pixmania.php
 //          Developer		 Somsak Ri
-//          E-Mail			 risomsak@gmail.com
+//          E-Mail			 hakunamoni@gmail.com
 
 require dirname(__FILE__)."/function.php";
 

@@ -5,7 +5,7 @@
 *	File			az.update.price.uk1.php
 *	Version			1.0
 *	Update Date		2014/08/10
-*	Created By		Kostya Franko (frankostya@yahoo.com)
+*	Created By		Hakuna Moni (hakunamoni@gmail.com)
 * -----------------------------------------------------------------
 */
 require dirname(__FILE__)."/function.php";
